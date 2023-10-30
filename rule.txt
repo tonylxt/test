@@ -10,6 +10,6 @@
 @@adsebs.ximalaya.com
 ! ------------------ bilibili ---------------------
 ||api.bilibili.com/x/ad/
-@@live.bilibili.com/
+||api.live.bilibili.com/^
 ! ---------------------- 咸鱼 ----------------------
 ||h-adashx.ut.taobao.com^
