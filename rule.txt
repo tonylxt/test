@@ -1,0 +1,15 @@
+! Title: CustomAdguard
+! Homepage: https://github.com/tonylxt/adguard
+! Powerd by 恋清风
+! Description: 自定义adguard过滤规则
+! Version: 2023-10-30
+! --------------------- 喜马拉雅 -------------------
+||adse.ximalaya.com^
+||adbehavior.ximalaya.com^
+||adse.wsa.ximalaya.com^
+@@adsebs.ximalaya.com
+! ------------------ bilibili ---------------------
+||api.bilibili.com/x/ad/
+@@live.bilibili.com/
+! ---------------------- 咸鱼 ----------------------
+||h-adashx.ut.taobao.com^
