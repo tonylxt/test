@@ -1,15 +1,42 @@
-! Title: CustomAdguard
+! Title: 清风广告拦截规则
 ! Homepage: https://github.com/tonylxt/adguard
-! Powerd by 恋清风
+! Powerd by 清风
 ! Description: 自定义adguard过滤规则
 ! Version: 2023-10-30
-! --------------------- 喜马拉雅 -------------------
+! DateUpdated: 2024-09-23
+! -------- 喜马拉雅 --------
 ||adse.ximalaya.com^
 ||adbehavior.ximalaya.com^
 ||adse.wsa.ximalaya.com^
 @@adsebs.ximalaya.com
-! ------------------ bilibili ---------------------
+! -------- bilibili --------
 ||api.bilibili.com/x/ad/
 ||api.live.bilibili.com/^
-! ---------------------- 咸鱼 ----------------------
+||miniapp.bilibili.com^
+||i*.hdslb.com^
+||mall.bilibili.com^
+||club.bilibili.com^
+||cm.bilibili.com^
+! -------- 咸鱼 --------
 ||h-adashx.ut.taobao.com^
+! ---------12306--------
+||ad.12306.cn^
+||6000000*.12306.cn^
+! -------- 飞猪 --------
+||acs.m.taobao.com^
+||gw.alicdn.com^
+||g.alicdn.com^
+! -------- 携程 --------
+||ma-adx.ctrip.com^
+! -------- 顺丰 --------
+||ucmp.sf-express.com^
+||ump.sf-express.com^
+
+||glitchtip.jgeek00.com^
+
+||obus-cn.dc.heytapmobi.com^
+
+
+||api.kuaishouzt.com^ ! 快手2
+||*.gifshow.com^
+! ||utoken.umeng.com^
