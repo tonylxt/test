@@ -1,4 +1,4 @@
-! Title: 清风广告拦截规则
+! Title: 清风广告拦截
 ! Homepage: https://github.com/tonylxt/adguard
 ! Powerd by 清风
 ! Description: 自定义adguard过滤规则
@@ -31,12 +31,11 @@
 ! -------- 顺丰 --------
 ||ucmp.sf-express.com^
 ||ump.sf-express.com^
+! -------- 快手 --------
+||api.kuaishouzt.com^
+||*.gifshow.com^
+
 
 ||glitchtip.jgeek00.com^
-
 ||obus-cn.dc.heytapmobi.com^
-
-
-||api.kuaishouzt.com^ ! 快手2
-||*.gifshow.com^
 ! ||utoken.umeng.com^
