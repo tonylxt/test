@@ -1,7 +1,7 @@
 ! Title: 清风广告拦截
-! Homepage: https://github.com/tonylxt/adguard
+! Homepage: https://github.com/tonylxt/A
 ! Powerd by 清风
-! Description: 自定义adguard过滤规则
+! Description: 自定义 A 过滤规则
 ! Version: 2023-10-30
 ! DateUpdated: 2024-09-23
 ! -------- 喜马拉雅 --------
@@ -31,11 +31,24 @@
 ! -------- 顺丰 --------
 ||ucmp.sf-express.com^
 ||ump.sf-express.com^
-! -------- 快手 --------
-||api.kuaishouzt.com^
-||*.gifshow.com^
+! -------- 快手极速版（不成功） --------
+||gdfp.gifshow.com^$app=com.kuaishou.nebula
+||api.e.kuaishou.com^
+||ulogjs.gifshow.com^
+||sdkoptedge.chinanetcenter.com^
+||kuaishou.httpdns.pro^
+||httpdns.alicdn.com^
+||httpdns.c.cdnhwc2.com^
+||hdns.ksyun.com^
+||httpdns.bcelive.com^
+
+! -------- 微博 --------
+||sdkapp.uve.weibo.com^$app=com.sina.weibo
+||adstrategy.biz.weibo.com^$app=com.sina.weibo
+||sdkaction.biz.weibo.com/action-pro$app=com.sina.weibo
+||uve.weibo.com^$app=com.sina.weibo
+||dp.im.weibo.cn^$app=com.sina.weibo
+||wbapp.mobile.sina.cn^
 
 
-||glitchtip.jgeek00.com^
-||obus-cn.dc.heytapmobi.com^
 ! ||utoken.umeng.com^
