@@ -21,7 +21,6 @@
 ||h-adashx.ut.taobao.com^
 ! ---------12306--------
 ||ad.12306.cn^
-||6000000*.12306.cn^
 ! -------- 飞猪 --------
 ||acs.m.taobao.com^
 ||gw.alicdn.com^
@@ -31,17 +30,8 @@
 ! -------- 顺丰 --------
 ||ucmp.sf-express.com^
 ||ump.sf-express.com^
-! -------- 快手极速版（不成功） --------
-||gdfp.gifshow.com^$app=com.kuaishou.nebula
-||api.e.kuaishou.com^
-||ulogjs.gifshow.com^
-||sdkoptedge.chinanetcenter.com^
-||kuaishou.httpdns.pro^
-||httpdns.alicdn.com^
-||httpdns.c.cdnhwc2.com^
-||hdns.ksyun.com^
-||httpdns.bcelive.com^
-
+! -------- 快手极速版 --------
+||adtrack.e.kuaishou.com^
 ! -------- 微博 --------
 ||dp.im.weibo.cn^
 ||adstrategy.biz.weibo.com^
