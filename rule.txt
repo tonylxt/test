@@ -43,12 +43,7 @@
 ||httpdns.bcelive.com^
 
 ! -------- 微博 --------
-||sdkapp.uve.weibo.com^$app=com.sina.weibo
-||adstrategy.biz.weibo.com^$app=com.sina.weibo
-||sdkaction.biz.weibo.com/action-pro$app=com.sina.weibo
-||uve.weibo.com^$app=com.sina.weibo
-||dp.im.weibo.cn^$app=com.sina.weibo
-||wbapp.mobile.sina.cn^
+||dp.im.weibo.cn^
+||adstrategy.biz.weibo.com^
+||vs.biz.weibo.com^
 
-
-! ||utoken.umeng.com^
