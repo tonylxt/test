@@ -36,4 +36,4 @@
 ||dp.im.weibo.cn^
 ||adstrategy.biz.weibo.com^
 ||vs.biz.weibo.com^
-
+||bootpreload.uve.weibo.com/v2/ad/preload
