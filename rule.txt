@@ -37,3 +37,4 @@
 ||adstrategy.biz.weibo.com^
 ||vs.biz.weibo.com^
 ||bootpreload.uve.weibo.com/v2/ad/preload
+||sdkmonitor.biz.weibo.com^$app=com.sina.weibo
