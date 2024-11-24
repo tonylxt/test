@@ -32,13 +32,15 @@
 ||ump.sf-express.com^
 ! -------- 快手极速版 --------
 ||adtrack.e.kuaishou.com^
+@@||s1.kskwai.com^
+@@||s2.kskwai.com^
+@@||s3.kskwai.com^
 ! -------- 微博 --------
 ||dp.im.weibo.cn^
 ||adstrategy.biz.weibo.com^
 ||vs.biz.weibo.com^
 ||bootpreload.uve.weibo.com/v2/ad/preload
 ||sdkmonitor.biz.weibo.com^$app=com.sina.weibo
-! -------- 快手极速版 --------
-@@||s1.kskwai.com^
-@@||s2.kskwai.com^
-@@||s3.kskwai.com^
+! -------- 天翼生活 --------
+||zt-activity.go189.cn^
+||zt-app.go189.cn^
