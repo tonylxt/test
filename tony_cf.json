@@ -48,8 +48,7 @@
   "outbounds": [
     {
       "type": "vless",
-      "tag": "proxy",
-      "name": "美国节点",
+      "tag": "proxy_US",
       "server": "104.16.152.106",
       "server_port": 443,
       "uuid": "280be609-67b4-4e15-b0f2-533f2466e225",
